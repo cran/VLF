@@ -1,4 +1,4 @@
-ac64be4fd5d0f9b1c106efa68ae4c431 *DESCRIPTION
+15b105d0a8735acf20268e3258f71d71 *DESCRIPTION
 f715fa8e30da695e1e49de36a501d359 *NAMESPACE
 f39f390b76f23ef2afac2a314fc23d4f *R/Decile.Plot.R
 7d97da21b0b371b74d636dda4ff7b086 *R/Error.Rate.R
@@ -44,7 +44,8 @@ b24ac284ea36cc4c0cc6ec900495f2bb *R/nucleotide.matching.positions.R
 0f28e35c48e7dc803643e11d4373e0a2 *R/overall.matched.R
 46d0f484e8750c0496a9ab5c03236e41 *R/separate.R
 adc219abf0504a9f880acab97470b130 *R/specimen.frequencies.R
-b956f622bb6247bd6b983aa5bbccf40c *R/vlfFun.R
+71cfe61dc5fb1cc2f6e1bc52142f1661 *R/vlfFun.R
+eca8d4077428869cbcdcad4d53c07064 *README.md
 417fc69500b11fa92b5930c7364ebeb2 *data/birds.rda
 21309b73373e86b5c0bbe0156dbd7b65 *data/birds_aminoAcids.rda
 6cf268c96282f9b9eb9c9e892dd96dd9 *man/Decile.Plot.Rd
@@ -53,7 +54,7 @@ b956f622bb6247bd6b983aa5bbccf40c *R/vlfFun.R
 7755ff89a3d015743a1f894eeb6cf9ea *man/MODE.freq.Rd
 e52abe43a9526e6a5583ea5e72fe62ed *man/MODE.second.freq.Rd
 9f8ba6186f8f676fa0d04cb9751264a3 *man/Sliding.Window.Rd
-573cd88ad3b0f7cbe60d3f2870e8e4e4 *man/VLF-package.Rd
+10b450e277311f3f477d48a7cef623bb *man/VLF-package.Rd
 9687be9839772b1a58747d2d22379de0 *man/VLF.aminoAcids.Rd
 eb6419e9c1e3892bed6760818fa991be *man/VLF.convert.matrix.Rd
 37b5c054fb18e8dd41b107d91cb28057 *man/VLF.count.pos.Rd
@@ -76,7 +77,7 @@ c44d3b26efb013247b80a1af1cc17daa *man/aa.count.function.Rd
 3c036c971a8080789b7de931a104e079 *man/aa.specimen.frequencies.Rd
 ec7c4e5adbee5bab0d4c6dd6a26d07eb *man/aaVLFs.to.modalchanges.Rd
 ddf2204444368e9aefb72f7d864c1c64 *man/aminoAcid.matching.positions.Rd
-36892a6d0667f1e61b6071af61fbf2d8 *man/aminoAcidFun.Rd
+22bdcd258cac83a0c6b25aae386f8477 *man/aminoAcidFun.Rd
 66f24fbe2bf2dc96cda561245a4c3a1c *man/birds.Rd
 124b9dbf0b3df5d0e508d33e3c18afbf *man/birds_aminoAcids.Rd
 086dd576fb03d09015d78a3c86d10b1d *man/compare.Rd
@@ -94,4 +95,4 @@ bd74ca68731442c46ba6e03b454bd68d *man/ffrequency.matrix.function.Rd
 72bcadd395c50c7475bd9f157b1fd51d *man/overall.matched.Rd
 90cc228dfd2d89d8c964646c7d28eb92 *man/separate.Rd
 46db1d381a776d926f8c14b7aa468765 *man/specimen.frequencies.Rd
-3e359df9b07c92e2732061c0ca5a97ae *man/vlfFun.Rd
+93101094727fd85478b17f03b0ef6e4c *man/vlfFun.Rd
